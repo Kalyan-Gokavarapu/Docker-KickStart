@@ -34,6 +34,6 @@ http://localhost:5000/api
 ###### *Get All Countries*
 http://localhost:5000/api/countries             
 
-###### *Get Sates within a Country*
+###### *Get All States within a Country*
 http://localhost:5000/api/countries/india       
 
